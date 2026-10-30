@@ -1,4 +1,17 @@
 # World Monitor Security Assessment (WMSA) — SecureLens
+
+<div align="center">
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python 3.11+](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Next.js](https://img.shields.io/badge/Next.js-14+-black?logo=next.js&logoColor=white)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+[![SIH 2026](https://img.shields.io/badge/SIH-2026_PS26163-orange.svg)](#world-monitor-security-assessment-wmsa--securelens)
+
+</div>
+
 > **SIH 2026 Problem Statement ID**: 26163  
 > **Problem Statement Title**: Security Assessment of the World Monitor application  
 > **Target Repository**: [koala73/worldmonitor](https://github.com/koala73/worldmonitor)  
@@ -733,4 +746,5 @@ Latest full `standard` run on the pinned commit (2026-09-29): Gemini review 3, S
 Per the World Monitor policy ([`SECURITY.md`](https://github.com/koala73/worldmonitor/blob/main/SECURITY.md)): report genuine vulnerabilities privately through **[GitHub Private Vulnerability Reporting](https://github.com/koala73/worldmonitor/security/advisories/new)** or to the maintainers; never open public issues for unpatched problems; include reproduction steps and a safe PoC.
 
 ## 3.6 License
-MIT License
+
+This project is licensed under the [MIT License](LICENSE).
